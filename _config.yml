@@ -1,0 +1,12 @@
+# Site settings
+title: Chris Fishback
+email: chrisfishback@icloud.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "chrisfishback.com" # the subpath of your site, e.g. /blog/
+url: "chrisfishback.com" # the base hostname & protocol for your site
+
+instagram_username: fishbackc
+github_username: chrisfishback
+
+# Build settings
+markdown: kramdown
